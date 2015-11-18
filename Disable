@@ -11,13 +11,13 @@
 @AcauCompanyID_v1.5@true|플러그인이_1.6버전으로_업데이트_되었습니다.@AcauCompanyID_v1.5@
 @AcauCompanyID_v1.6@false@AcauCompanyID_v1.6@
 @PAIPVP_v1.0@false@PAIPVP_v1.0@
-@HandGiveAll_v10.0@false@HandGiveAll_v10.0@
-@HandGiveAll_v10.1@false@HandGiveAll_v10.1@
-@HandGiveAll_v10.3@false@HandGiveAll_v10.3@
-@HandGiveAll_Dev01@false@HandGiveAll_Dev01@
-@HandGiveAll_Dev02@false@HandGiveAll_Dev02@
-@HandGiveAll_Dev03@false@HandGiveAll_Dev03@
-@HandGiveAll_v10.4@false@HandGiveAll_v10.4@
+@HandGiveAll_v10.0@true^최신버전을 이용해주시기 바랍니다. 현재 버전은 버그로 인하여 사용 정지되었습니다.@HandGiveAll_v10.0@
+@HandGiveAll_v10.1@true^최신버전을 이용해주시기 바랍니다. 현재 버전은 버그로 인하여 사용 정지되었습니다.@HandGiveAll_v10.1@
+@HandGiveAll_v10.3@true^최신버전을 이용해주시기 바랍니다. 현재 버전은 버그로 인하여 사용 정지되었습니다.@HandGiveAll_v10.3@
+@HandGiveAll_Dev01@true^플러그인_테스트_기간이_종료되었습니다.@HandGiveAll_Dev01@
+@HandGiveAll_Dev02@true^플러그인_테스트_기간이_종료되었습니다.@HandGiveAll_Dev02@
+@HandGiveAll_Dev03@true^플러그인_테스트_기간이_종료되었습니다.@HandGiveAll_Dev03@
+@HandGiveAll_v10.4@true^최신버전을 이용해주시기 바랍니다. 현재 버전은 버그로 인하여 사용 정지되었습니다.@HandGiveAll_v10.4@
 @HandGiveAll_v10.5@false@HandGiveAll_v10.5@
 @NLifeAddition_v1.0@false@NLifeAddition_v1.0@
 @HJGS_v1.0@false@HJGS_v1.0@
